@@ -7,11 +7,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: about 
+      - text: EPPS6323
+        menu: 
+          - href: Assignment1.qmd.R
+            text: Assignment1
+      
+        
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
 
