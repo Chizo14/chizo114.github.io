@@ -4,6 +4,17 @@ title: "About"
 
 About this site
 
-```{r}
-1 + 1
-```
+Hi! I am a Masters student studying Cognitive Science/ Neuroscience. My specialization is in Human Computer Interaction.
+
+### More Information
+
+Interests:
+
+-   HCI
+-   UI/UX
+-   Data Science
+-   Traveling/ Vlogging
+
+### Contact Me
+
+\[Website\] (https://chizo14.github.io/chizo114.github.io/) \`\`\`
