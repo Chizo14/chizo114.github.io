@@ -23,6 +23,9 @@ website:
             text: Assignment5
           - href: Projectproposalpresentation.qmd
             text: Projectproposalpresentation 
+      - text: EPPS6356
+        menu:
+          - href:
 
 format:
   html:
